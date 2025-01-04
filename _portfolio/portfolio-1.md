@@ -1,6 +1,6 @@
 ---
 title: "Car Insurance Policy Onyx Data Challenge"
-excerpt: "Analyze car insurance data to uncover insights and visualize trends using Excel and Power BI<br/><img src='/images/car_insurance_policy_Onyx_Data_challenge.jpg'>"
+excerpt: "Analyze car insurance data to uncover insights and visualize trends using Excel and Power BI<br/><img src='images/car_insurance_policy.jpg'>"
 collection: portfolio
 ---
 
@@ -33,4 +33,4 @@ Summarizing the findings in a comprehensive report.
 Providing actionable insights and recommendations based on the analysis.
 Sharing the final report and dashboards with stakeholders.
 
-![Car Insurance Policy](images/car_insurance_policy_Onyx_Data_challenge.jpg)
+![Car Insurance Policy](images/car_insurance_policy.jpg)
