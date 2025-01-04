@@ -69,8 +69,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : "KADRI MOHAMED"
   links:
-         - "https://x.com/Kadri__med"
-          - "https://www.linkedin.com/in/kadrimohamed/"
+            - "https://x.com/Kadri__med"
+            - "https://www.linkedin.com/in/kadrimohamed/"
 
 
 # Analytics
