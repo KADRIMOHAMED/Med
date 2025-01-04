@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kadri Mohamed"
 title_separator          : "-"
 name                     : &name "Kadri Mohamed"
-description              : &description "Data Analyst"
+description              : &description "Data Analyst | Power BI Expert & Advanced Excel Proficiency"
 url                      : https://kadrimohamed.github.io/Med/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maggiewolff/maggiewolff.github.io"
@@ -67,8 +67,10 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  name                   : "KADRI MOHAMED"
+  links:
+         - "https://x.com/Kadri__med"
+          - "https://www.linkedin.com/in/kadrimohamed/"
 
 
 # Analytics
