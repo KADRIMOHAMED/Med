@@ -4,7 +4,7 @@ excerpt: "Analyze car insurance data to uncover insights and visualize trends us
 collection: portfolio
 ---
 
-Project Goal: The goal of this project is to analyze the car insurance dataset provided by Onyx Data to uncover insights and trends. This analysis aims to help understand the factors influencing car insurance policies and claims, and to visualize these findings using Excel and Power BI.
+Project Goal: The goal of this project is to analyze the car insurance dataset provided by [Onyx Data](https://onyxdata.co.uk/data-dna-dataset-challenge/) to uncover insights and trends. This analysis aims to help understand the factors influencing car insurance policies and claims, and to visualize these findings using Excel and [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi).
 
 
 Tasks: 
