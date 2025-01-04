@@ -1,6 +1,6 @@
 ---
-Title: "Car Insurance Policy Onyx Data Challenge"
-Tools: "Excel & Power BI"
+title: "Car Insurance Policy Onyx Data Challenge"
+excerpt: "Analyze car insurance data to uncover insights and visualize trends using Excel and Power BI"
 collection: portfolio
 ---
 
