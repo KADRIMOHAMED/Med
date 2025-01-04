@@ -1,6 +1,6 @@
 ---
 title: "Car Insurance Policy Onyx Data Challenge"
-excerpt: "Analyze car insurance data to uncover insights and visualize trends using Excel and Power BI" <br/><img src='/images/500x300.png'>"
+excerpt: "Analyze car insurance data to uncover insights and visualize trends using Excel and Power BI"
 collection: portfolio
 ---
 
