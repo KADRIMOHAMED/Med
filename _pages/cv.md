@@ -12,46 +12,49 @@ redirect_from:
 
 Work Experience
 ======
-* July 2019 - present: Data Scientist Product Analytics, [Egencia](http://www.egencia.com)
-  * Currently part of American Express Global Business Travel, formerly part of Expedia Group
-  * Partner with product managers, software engineers, UX/design to evaluate the user experience and identify opportunities for improvement via advanced analysis, A/B tests, and machine learning, using web analytics, transactional data, and client data.
+* March 2024 - Present: Cost Controller, [Agrovision](https://www.agrovision.com)
+  * Responsible for monitoring and controlling costs across all departments (labor, packaging, transport).
+  * Preparing analytical results by activity and analyzing cost variances.
+  * Contributing to the preparation of annual budgets and re-forecasting processes.
+  * Generating periodic reporting and presenting findings to stakeholders.
 
-* October 2016 - July 2019: Digital Marketing Analytics Manager, [Brookfield Properties Retail](https://www.brookfieldproperties.com/en/our-businesses/retail.html)
-  * Analyze the performance of B2C and B2B digital products (websites, mobile app, interactive directory kiosks) for 100+ shopping malls. 
-  
-* June 2013 - October 2016: Digital Marketing Manager, [Brookfield Properties Retail](https://www.brookfieldproperties.com/en/our-businesses/retail.html)
-  * Website publishing subject matter expert, supporting 100+ mall websites, mobile app, and B2B website. Oversight for strategy, content, workflow, training, and analytics.
-  
-* January 2012 - June 2013: Digital Marketing Manager, Presence Health (now part of [Ascension Health](https://healthcare.ascension.org/))
-  * Managed all owned digital marketing channels, including social media, email marketing, search engine marketing. Supervised Online Data Coordinator. 
+* August 2021 - March 2024: Cost Controller, [QUALIPRIM](https://www.qualiprim.com)
+  * Prepared analytical results by activity and participated in budget creation (labor, packaging, transport).
+  * Developed cost optimization strategies and identified synergies.
+  * Ensured adherence to budgets by implementing controls and analyzing variances.
 
+* January 2020 - August 2021: Reporting Officer, [Azura Group](https://www.azuragroup.com)
+  * Improved and developed dashboards to analyze business activities.
+  * Produced periodic reports and conducted variance analysis.
+  * Implemented a cost-optimizing system and facilitated budget management processes.
+  * Actively contributed to ensuring budget compliance.
 
 Education
 ======
-* M.S. in Data Science, [DePaul University](https://www.cdm.depaul.edu/academics/Pages/MS-in-Data-Science.aspx), June 2022
-  * Coursework: Advanced Machine Learning, Programming Machine Learning Applications, Recommender Systems, Neural Networks & Deep Learning, Time Series Analysis, Advanced Data Analysis, Data Analysis and Regression (Linear/Logistic), Databases for Analytics (Querying), Mining Big Data (Distributed Computing), Data Visualization
-  * Capstone Project: Analysis and predictive modeling for [UtmostU](https://www.utmostu.org/), the signature program of the Network for Young Adult Success. Examined UtmostU’s data collection efforts, explored which metrics best correlate with or predict success (college degree attainment), and provided recommendations on future data collection and program structure.
-* B.A. in Communication, [Loyola University Chicago](https://www.luc.edu/), May 2004
+* Master’s Degree, [Université Ibn Zohr](https://www.uiz.ac.ma/), 2019
+  * Major: Management Control and Information Systems
+  * Activities: CGSI DAYS 2019
 
+* Bachelor’s Degree, [Université Ibn Zohr](https://www.uiz.ac.ma/), 2017
+  * Major: Management
 
-  
+Licenses & Certifications
+======
+* Certificate of Attendance, [Mendeley](https://www.mendeley.com/) - December 2023
+* Excel: Mastering Time Intelligence Functions in DAX, [LinkedIn](https://www.linkedin.com/learning/) - April 2021
+* Power BI: Advanced Visualizations & Key DAX Concepts, [LinkedIn](https://www.linkedin.com/learning/) - January 2021
+* Data Visualization with Power BI, [DataCamp](https://www.datacamp.com/) - December 2020
+* Data Analysis Using Excel, [Coursera](https://www.coursera.org/) - November 2020
+* Excel: Lookup Functions, [Udemy](https://www.udemy.com/) - October 2019
+* Microsoft Power BI Certification, [Alphorm](https://www.alphorm.com/) - September 2019
+
 Skills
 ======
-* Python
-  * Pandas, NumPy, MatPlotLib, Seaborn, scikit-learn, scikit-surprise, SciPy, TensorFlow, Keras  
-* R
-  * Markdown, dplry, ggplot2, tidyr, tseries, lmtest, forecast
-* SQL 
-* Tableau
-* PowerBI
-* Adobe Analytics
-* Google Analytics
-* Adobe Target 
-  
-Service and Leadership
-======
-* Organizer and Social Media Manager, [MeasureCamp Chicago](https://chicago.measurecamp.org/) (2024 - present)
-* WiDS Chicago Ambassador, [Women in Data Science](https://www.widsconference.org/) (2022 - present) 
-* Mentor/Mentee Organizer, [Data Angels](http://dataangels.org/) (2022 - present) 
-* [UtmostU](https://www.utmostu.org/), the Network for Young Adult Success, Chicago - Graduate Research Capstone Project (2021) 
-* Business Volunter for the Arts / Team Lead with the [Arts & Business Council of Chicago](https://artsbiz-chicago.org/) (2011 - 2018) 
+* Analytical Skills
+* Data Analysis & Reporting
+* Excel (Advanced Functions, Time Intelligence, Lookup Functions)
+* Power BI (Advanced Visualizations, DAX)
+* Budgeting & Cost Control
+* Financial Reporting
+* Data Visualization
+
