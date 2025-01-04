@@ -12,6 +12,7 @@ redirect_from:
 
 Work Experience
 ======
+
 * March 2024 - Present: Data Analyst & Cost Controller, [Agrovision](https://www.agrovision.com)
   * Responsible for monitoring and controlling costs across all departments (labor, packaging, transport).
   * Preparing analytical results by activity and analyzing cost variances.
