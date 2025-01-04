@@ -8,7 +8,7 @@ main:
     url: /portfolio/
 
   - title: "Contact Me"
-    url: /_Contact_me/ 
+    url: /Contact_me/ 
 
 #  - title: "Talks"
 #    url: /talks/    
