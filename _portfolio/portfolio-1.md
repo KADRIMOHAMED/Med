@@ -6,7 +6,6 @@ collection: portfolio
 
 Project Goal: The goal of this project is to analyze the car insurance dataset provided by Onyx Data to uncover insights and trends. This analysis aims to help understand the factors influencing car insurance policies and claims, and to visualize these findings using Excel and Power BI.
 
-Tasks:
 
 Tasks: 
 
